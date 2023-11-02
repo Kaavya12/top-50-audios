@@ -2,4 +2,10 @@ requests
 bs4
 pandas
 numpy
+matplotlib
+math
+joblib
+tensorflow
+keras
+sklearn
 https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
