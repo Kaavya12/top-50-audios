@@ -44,5 +44,15 @@ To use the model, the fma_metadata folder is required from [fma_metadata.zip](ht
 
 The `model.h5` file, `model_checkpoint`, `pipe.joblib` and `enc.joblib` are from the latest run of the model. 
 
+---
+
+## Predicted Data
+
+This [`csv file`](https://github.com/Kaavya12/genre-classification-model-dash/blob/96f6e64bcb48440185ac5f324b58980d42438e50/data/top_50_predicted_data_mod10_v2.csv) in a separate repository has the complete predicted genres for the top 50 songs 
+
+The top 3 genres have been predicted for each audio file, and can be used as needed!
+
+---
+
 Check out this series tolearn more about how the code is structured and how it works:
 [A Genre Classification App using Tensorflow, Dash and AWS](https://medium.com/@kaavyamaha12/list/a-genre-classification-app-using-tensorflow-dash-and-aws-5c134b5ff913)
