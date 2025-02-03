@@ -54,5 +54,13 @@ The top 3 genres have been predicted for each audio file, and can be used as nee
 
 ---
 
-Check out this series tolearn more about how the code is structured and how it works:
+Here's the model in action! If you'd like to access the code for website development and deployment, please check out the following repositories: 
+
+[](https://github.com/user-attachments/assets/f552b64f-5e89-4826-b644-94e77c6e5f4f)
+
+[Backend](https://github.com/Kaavya12/genre-classification-model-api) 
+
+[Frontend](https://github.com/Kaavya12/genre-classification-model-dash)
+
+Check out this series to learn more about how the code is structured and how it works:
 [A Genre Classification App using Tensorflow, Dash and AWS](https://medium.com/@kaavyamaha12/list/a-genre-classification-app-using-tensorflow-dash-and-aws-5c134b5ff913)
