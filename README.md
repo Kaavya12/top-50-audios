@@ -1,5 +1,20 @@
 # Top 2500 songs from Billboard Top 50 Singles Rankings: 1973-2022
 
+## At A Glance
+
+Here's the finished project and my model in action! If you'd like to access the code for website development and deployment, please check out the following repositories: 
+
+
+https://github.com/user-attachments/assets/ce24d68f-8529-41ff-8c09-24c729d499ff
+
+
+
+[Backend - Exposing an API endpoint to a server hosted on the cloud that performs audio analysis using my model](https://github.com/Kaavya12/genre-classification-model-api) 
+
+[Frontend - Design and esxecution of the entire webpage, alongside logic for sending requests to the cloud server backend with user audio](https://github.com/Kaavya12/genre-classification-model-dash)
+
+Read on to learn more about the Data Collection and Preprocessing Steps!
+
 ## Data
 
 ### Song Info
@@ -53,14 +68,6 @@ This [`csv file`](https://github.com/Kaavya12/genre-classification-model-dash/bl
 The top 3 genres have been predicted for each audio file, and can be used as needed!
 
 ---
-
-Here's the model in action! If you'd like to access the code for website development and deployment, please check out the following repositories: 
-
-[](https://github.com/user-attachments/assets/f552b64f-5e89-4826-b644-94e77c6e5f4f)
-
-[Backend](https://github.com/Kaavya12/genre-classification-model-api) 
-
-[Frontend](https://github.com/Kaavya12/genre-classification-model-dash)
 
 Check out this series to learn more about how the code is structured and how it works:
 [A Genre Classification App using Tensorflow, Dash and AWS](https://medium.com/@kaavyamaha12/list/a-genre-classification-app-using-tensorflow-dash-and-aws-5c134b5ff913)
